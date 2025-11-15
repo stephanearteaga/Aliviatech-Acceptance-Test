@@ -7,5 +7,6 @@ Historias de Usuario incluidas
 - *US05:* Deteccion de signos de ansiedad  
 - *US06:* Botón de emergencia  
 - *US08:* Chat con especialista
-- *US015:* Monitoreo en tiempo real
-- *US032*: Visualizacion de graficos de progreso
+- *US010:* Historial de reportes semanales
+- *US032*: Monitoreo en tiempo real 
+
